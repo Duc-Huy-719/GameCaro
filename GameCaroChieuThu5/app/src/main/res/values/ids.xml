@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="name" type="id" />
+    <item name="name1" type="id" />
+    <item name="tvXScore" type="id" />
+    <item name="tvOScore" type="id" />
+    <item name="btn20" type="id" />
+</resources>
